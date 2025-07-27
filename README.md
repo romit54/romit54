@@ -1,30 +1,49 @@
-### 👋 Hello, I'm [Your Name]
+### 👋 Hey there! I'm Romit Khilari
 
-I'm a junior frontend developer passionate about building clean, responsive, and accessible web interfaces. I enjoy learning new technologies and improving my skills one commit at a time. Currently, I'm exploring modern JavaScript frameworks and sharpening my React and TypeScript skills.
-
----
-
-### 🛠️ Technologies & Tools
-
-- 🌐 HTML | CSS | JavaScript 
-- 🎨 Sass | Tailwind CSS
-- 🛠️ Git | GitHub | VS Code | Figma
+I'm a **fresher frontend developer** with a strong passion for web development and a love for clean, user-friendly interfaces. I'm currently building my skills by creating projects, contributing to open-source, and learning modern frontend technologies.
 
 ---
 
-### 📚 Learning & Improving
+### 🧠 What I'm Learning
 
-- React.js ecosystem (hooks, context, router)
-- TypeScript
-- API integration (REST/GraphQL)
-- Testing (Jest, React Testing Library)
+- ✅ HTML5, CSS3, JavaScript (ES6+)
+- ✅ Responsive Design & Accessibility
+- ✅ Git & GitHub basics
+- ✅ React.js (beginner level)
+- ✅ Tailwind CSS (beginner level)
 
 ---
 
+### 🛠️ Tools I Use
 
-### 📫 Connect With Me
+- 🖥️ VS Code
+- 🌐 Chrome DevTools
+- 🗃️ Git & GitHub
+- 🎨 Figma (for UI design basics)
 
-- 💼 [LinkedIn]:([https://www.linkedin.com/in/yourlinkedin](https://www.linkedin.com/in/romit-khilari-5091ba257/))
-- 💌 Email: romitkhilari45@gmail.com
+---
 
-Thanks for stopping by! Feel free to check out my work and reach out if you'd like to collaborate! 🚀
+### 🧪 Projects I've Built
+
+> *These projects helped me apply what I’ve been learning.*
+
+- **[Simple Portfolio Website](https://github.com/yourusername/portfolio-site)** – My first portfolio using HTML, CSS, and JavaScript.
+
+---
+
+### 🎯 Goals for 2025
+
+- Learn React deeply (components, hooks, routing)
+- Understand API integration
+- Practice with TypeScript
+- Start contributing to beginner-friendly open-source projects
+- Build 5+ mini projects and 1 full-stack app
+
+---
+
+### 📫 Let's Connect
+
+- 🌐 [LinkedIn]:([https://linkedin.com/in/yourlinkedin](https://www.linkedin.com/in/romit-khilari-5091ba257/))
+- 📧 Email: romitkhilari45@gmail.com
+
+Thanks for visiting my profile! I'm open to internship and entry-level opportunities in frontend development. 😊
