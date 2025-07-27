@@ -24,7 +24,7 @@ I'm a junior frontend developer passionate about building clean, responsive, and
 
 ### 📫 Connect With Me
 
-- 💼 [LinkedIn]([https://www.linkedin.com/in/yourlinkedin](https://www.linkedin.com/in/romit-khilari-5091ba257/))
+- 💼 [LinkedIn]:([https://www.linkedin.com/in/yourlinkedin](https://www.linkedin.com/in/romit-khilari-5091ba257/))
 - 💌 Email: romitkhilari45@gmail.com
 
 Thanks for stopping by! Feel free to check out my work and reach out if you'd like to collaborate! 🚀
