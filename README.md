@@ -31,7 +31,7 @@ I'm a **fresher frontend developer** with a strong passion for web development a
 
 ---
 
-### 🎯 Goals for 2025
+### 🎯 Goals for 2026
 
 - Learn React deeply (components, hooks, routing)
 - Understand API integration
